@@ -1,7 +1,7 @@
 # llama-mx
 llama-mx
 
-```
+```python
 from llama_mx import MatrixxLLMBot
 
 MatrixLLMBot = MatrixLLMBot(
