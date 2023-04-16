@@ -1,5 +1,5 @@
 # pip install matrix-commander
-# pip install pyllama -U
+# pip install pyllamacpp
 
 import asyncio
 import json
