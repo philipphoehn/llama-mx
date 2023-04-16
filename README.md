@@ -1,8 +1,8 @@
 # llama-mx
 llama-mx
 
-```python
-from llama_mx import MatrixxLLMBot
+```{python}
+from llama_mx import MatrixLLMBot
 
 MatrixLLMBot = MatrixLLMBot(
     credentials_path = '~/',
